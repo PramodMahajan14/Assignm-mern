@@ -1,0 +1,11 @@
+.svgimg{
+    height: 450px;
+    width: 350px;
+  
+  }
+  .section__img{
+      position: absolute;
+      float: right;
+      right: 0;
+  }
+ 
